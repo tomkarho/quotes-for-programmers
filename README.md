@@ -40,6 +40,8 @@
   - #### What one programmer can do in one month, two programmers can do in two months.
 
   - #### Good code is like a good joke: it needs no explanation.
+  
+  - #### All programming teams are constructed by and of crazy people
 
 ------------
 ## Contribution Guidelines
